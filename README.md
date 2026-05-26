@@ -1,5 +1,5 @@
 # Ex05 Image Carousel
-## NAME: PRIYADARSHINI K
+## NAME: SRILAKSHMI BH
 ## Date: 26/05/2026
 
 ## AIM
