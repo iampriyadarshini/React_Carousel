@@ -1,5 +1,6 @@
 # Ex05 Image Carousel
-## NAME: SRILAKSHMI BH
+## NAME: PRIYADARSHINI K
+## REG NO : 212224100046
 ## Date: 26/05/2026
 
 ## AIM
@@ -189,7 +190,8 @@ export default App;
 
 ## OUTPUT
 
-![alt text](image.png)
+<img width="1051" height="662" alt="image" src="https://github.com/user-attachments/assets/54cffb3e-847e-449e-8308-cc4247a1d696" />
+
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
